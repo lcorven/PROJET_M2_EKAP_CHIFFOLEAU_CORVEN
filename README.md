@@ -5,10 +5,10 @@ Code projet interessant : https://www.kaggle.com/hijest/wikipedia-image-caption-
  
 Initialisation : 
 
-**import os
+import os
 import requests
 
-# General packages
+General packages
 import pandas as pd
 import numpy as np
 import matplotlib
@@ -19,7 +19,7 @@ import PIL.Image
 
 from IPython.display import Image, display
 import warnings
-warnings.filterwarnings("ignore")**
+warnings.filterwarnings("ignore")
   
   
  
