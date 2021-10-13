@@ -1,7 +1,7 @@
 # PROJET_M2_EKAP_CHIFFOLEAU_CORVEN
  
  
- Code projet interessant : https://www.kaggle.com/hijest/wikipedia-image-caption-matching-starter-eda
+Code projet interessant : https://www.kaggle.com/hijest/wikipedia-image-caption-matching-starter-eda
  
 Initialisation : 
 
